@@ -27,7 +27,7 @@
 
 > Acesse: [link do repositório no Github](https://github.com/tiagojaquesdasilva/portfolio-pessoal)
 
-> Acesse: [link do portifólio no Heroku]()
+> Acesse: [link do portifólio no Github Pages](https://tiagojaquesdasilva.github.io/portfolio-pessoal/)
 
 ---
 
